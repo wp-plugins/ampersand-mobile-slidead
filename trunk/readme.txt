@@ -50,15 +50,7 @@ Upgrade notices describe the reason a user should upgrade.  No more than 300 cha
 = 0.5 =
 This version fixes a security related bug.  Upgrade immediately.
 
-== Arbitrary section ==
-
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
-
-== A brief Markdown Example ==
-
-Ordered list:
+== Summary ==
 
 1. Slideup Box of Random Posts
 2. Posts may be selected to be included in the random selection
