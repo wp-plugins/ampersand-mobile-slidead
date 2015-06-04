@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Ampersand Mobile SlideAd
-Description: Add custom options for seleting if present in slidead.
-Version: 1.0
+Description: Add a slideup ad box listing a random selection of chosen posts.
+Version: 1.0.1
 Author: Richard Holmes
 Author URI: https://ampersandstudio.uk/
 License: GPL v2 or higher
