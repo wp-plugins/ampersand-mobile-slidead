@@ -35,6 +35,15 @@ Yes. You'll find a couple of options under the Settings->Mobile SlideAd page.
 
 == Changelog ==
 
+= 1.0.3 =
+* Remove assets folder from plugin directory
+
+= 1.0.2 =
+* Update readme.txt file content
+
+= 1.0.1 =
+* Correct errors in readme file
+
 = 1.0 =
 * First version
 
