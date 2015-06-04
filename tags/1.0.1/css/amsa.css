@@ -1,0 +1,47 @@
+.amsa-mobile-slidead {
+	border-top: 1px solid #999999;
+    position: fixed;
+    width: 100%;
+    z-index: 10000;
+    height: auto;
+    color: #fff;
+    background: grey;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    bottom: -999px;
+    padding: 8px;
+}
+.amsa-mobile-slidead-close {
+	text-align: right;
+	margin-right: 20px;
+	font-size: 1.6rem;
+	cursor: pointer;
+	float: right;
+	line-height: 1;
+}
+.amsa-mobile-slidead .amsa-clear {
+	clear: both;	
+}
+.amsa-mobile-slidead h5 {
+	color: #fff;	
+	font-size: 1.3rem;
+}
+.amsa-post-wrapper {
+	width: 100%;
+	margin-top: 10px;
+}
+.amsa-mobile-slidead .amsa-post-wrapper img {
+	float: left;
+	margin-right: 15px;
+}
+.amsa-mobile-slidead h6 {
+	color: #fff;
+	font-size: 1.0rem;
+	line-height: 1;
+}
+.amsa-mobile-slidead a {
+	color: #fff;
+	text-decoration: none;
+}
