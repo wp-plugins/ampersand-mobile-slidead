@@ -4,7 +4,7 @@ Donate link: https://ampersandstudio.uk/
 Tags: mobile, posts, ads
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,10 +15,6 @@ A mobile slide up advert box to promote specific posts
 This plugin allows you to add a slideup advert box of selected posts on mobiles. You can use this to show posts such as 'more you might like' or 'have you seen?'. You have the flexibility to select which post(s) will be displayed, what the title will say and how many posts to display.
 
 == Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Upload `ampersand-mobile-slidead` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
