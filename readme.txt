@@ -50,7 +50,7 @@ Yes. You'll find a couple of options under the Settings->Mobile SlideAd page.
 == Upgrade Notice ==
 
 = 1.0.3 =
-Upgrade reduces the size of the plugin directoy, removing unnecessary assets folder.
+Upgrade reduces the size of the plugin directory, removing unnecessary assets folder.
 
 
 == Summary ==
