@@ -4,7 +4,7 @@ Donate link: https://ampersandstudio.uk/
 Tags: mobile, posts, ads
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,16 +35,28 @@ Yes. You'll find a couple of options under the Settings->Mobile SlideAd page.
 
 == Changelog ==
 
+= 1.0.4 =
+* Improve the animation of the slidead
+
+= 1.0.3 =
+* Remove assets folder from plugin directory
+
+= 1.0.2 =
+* Update readme.txt file content
+
+= 1.0.1 =
+* Correct errors in readme file
+
 = 1.0 =
 * First version
 
 == Upgrade Notice ==
 
-= 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+= 1.0.4 =
+Upgrade to improve the animation of the slidead
 
-= 0.5 =
-This version fixes a security related bug.  Upgrade immediately.
+= 1.0.3 =
+Upgrade reduces the size of the plugin directory, removing unnecessary assets folder.
 
 == Summary ==
 
