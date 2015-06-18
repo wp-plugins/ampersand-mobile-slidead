@@ -2,7 +2,7 @@
 /*
 Plugin Name: Ampersand Mobile SlideAd
 Description: Add a slideup ad box listing a random selection of chosen posts.
-Version: 1.0.3
+Version: 1.0.4
 Author: Richard Holmes
 Author URI: https://ampersandstudio.uk/
 License: GPL v2 or higher
